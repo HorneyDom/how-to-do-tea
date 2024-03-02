@@ -1,0 +1,22 @@
+{
+  "name": "how-to-do-tea",
+  "version": "1.0.0",
+  "description": "App tea do",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HorneyDom/how-to-do-tea.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HorneyDom/how-to-do-tea/issues"
+  },
+  "homepage": "https://github.com/HorneyDom/how-to-do-tea#readme"
+}
